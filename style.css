@@ -1,0 +1,9 @@
+label {
+    padding-right:1em;
+}
+#wordSpotlight {
+    margin: 2em;
+}
+.wrong {
+    background-color: firebrick;
+}
